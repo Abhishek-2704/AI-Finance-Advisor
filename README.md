@@ -1,4 +1,5 @@
 🚀 AI Finance Advisor
+
 AI Finance Advisor is an intuitive, data-driven web application that empowers Indian investors to make smarter decisions about their financial future. With easy step-by-step interaction and personalized projections, users can see how their monthly investments grow across stocks, mutual funds, fixed deposits, NSC, and real estate. 📈💰
 
 Using real-time market data and machine learning, the app calculates the expected future value of your monthly SIPs for any duration, visualizing results in interactive charts. Whether you’re a first-time investor or a seasoned pro, AI Finance Advisor helps you compare options and choose the best fit based on your risk profile and goals. ⚡🧠
